@@ -304,3 +304,4 @@ $RECYCLE.BIN/
 google-services.json
 validatetor/src/androidTest/java/com/raywenderlich/android/validatetor/ExampleInstrumentedTest.java
 validatetor/src/test/java/com/raywenderlich/android/validatetor/ExampleUnitTest.java
+app/src/test/java/com/raywenderlich/android/validatetorproject/ExampleUnitTest.kt
