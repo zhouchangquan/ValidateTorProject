@@ -32,9 +32,13 @@ ext {
   minSdkVersion = 14
   compileSdkVersion = targetSdkVersion
   buildToolsVersion = '29.0.3'
-  supportLibVersion = '27.0.2'
+  supportLibVersion = '28.0.0'
   constraintLayoutVersion = "1.0.2"
-  junitVersion = "4.12"
+  junitVersion = "4.13.2"
   testRunnerVersion = "1.0.1"
   espressoCoreVersion = "3.0.1"
+
+  //ValidateTor Library Info
+  libVersionCode = 1
+  libVersionName = '1.0.0'
 }
